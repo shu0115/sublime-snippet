@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[Time.now]]></content>
-  <tabTrigger>time.now</tabTrigger>
+  <tabTrigger>Time.now</tabTrigger>
   <scope>source.ruby.rails</scope>
   <description>Time.now</description>
 </snippet>
