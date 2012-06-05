@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[order( "${0:} ASC" )]]>
+  </content>
+  <tabTrigger>order</tabTrigger>
+  <scope>source.ruby.rails</scope>
+  <description>order</description>
+</snippet>
