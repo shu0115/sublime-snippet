@@ -1,8 +1,8 @@
 <snippet>
   <content>
-    <![CDATA[where( ${1:column:} )]]>
+    <![CDATA[where( ${1:column}: )]]>
   </content>
   <tabTrigger>where</tabTrigger>
   <scope>source.ruby.rails</scope>
-  <description>where</description>
+  <description>where( column: )</description>
 </snippet>

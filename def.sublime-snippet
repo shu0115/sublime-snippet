@@ -1,0 +1,14 @@
+<snippet>
+  <content>
+<![CDATA[
+#-------------#
+# ${1:method_name} #
+#-------------#
+def ${1:method_name}
+end
+]]>
+  </content>
+  <tabTrigger>def</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>def</description>
+</snippet>
