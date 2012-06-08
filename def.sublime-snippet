@@ -10,5 +10,5 @@ end
   </content>
   <tabTrigger>def</tabTrigger>
   <scope>source.ruby</scope>
-  <description>def</description>
+  <description>def method_name</description>
 </snippet>

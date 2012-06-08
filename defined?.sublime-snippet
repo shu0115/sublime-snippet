@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[defined?( ${0:} )]]>
+  </content>
+  <tabTrigger>defined?</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>defined?()</description>
+</snippet>
