@@ -3,6 +3,6 @@
     <![CDATA[strftime("%Y/%m/%d %H:%M:%S")]]>
   </content>
   <tabTrigger>strftime</tabTrigger>
-  <scope>source.ruby.rails</scope>
+  <scope>source.ruby</scope>
   <description>strftime("%Y/%m/%d %H:%M:%S")</description>
 </snippet>
