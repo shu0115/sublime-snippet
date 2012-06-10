@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[presence]]>
+  </content>
+  <tabTrigger>presence</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>presence</description>
+</snippet>

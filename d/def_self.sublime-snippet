@@ -1,0 +1,14 @@
+<snippet>
+  <content>
+<![CDATA[
+#-------------#
+# self.${1:method_name} #
+#-------------#
+def self.${1:method_name}
+end
+]]>
+  </content>
+  <tabTrigger>defs</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>def self.method_name</description>
+</snippet>

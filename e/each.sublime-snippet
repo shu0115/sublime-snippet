@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[each{ |${1:e}|  }]]>
+  </content>
+  <tabTrigger>ea</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>each{ |e|  }</description>
+</snippet>

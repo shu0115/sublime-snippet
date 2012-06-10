@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[include_blank: "${0:}"]]>
+  </content>
+  <tabTrigger>include_blank</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>include_blank</description>
+</snippet>
