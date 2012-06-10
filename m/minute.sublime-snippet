@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[minute]]>
+  </content>
+  <tabTrigger>minute</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>分</description>
+</snippet>

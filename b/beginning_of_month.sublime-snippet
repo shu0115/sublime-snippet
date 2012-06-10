@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[beginning_of_month]]>
+  </content>
+  <tabTrigger>beginning_of_month</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>beginning_of_month</description>
+</snippet>

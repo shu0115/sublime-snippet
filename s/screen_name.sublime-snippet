@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[screen_name]]>
+  </content>
+  <tabTrigger>screen_name</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>screen_name</description>
+</snippet>

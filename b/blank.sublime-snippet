@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[blank?]]>
+  </content>
+  <tabTrigger>blank?</tabTrigger>
+  <scope>source.ruby.rails</scope>
+  <description>blank?</description>
+</snippet>

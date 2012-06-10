@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[sort{ |a, b| a.${1:name} <=> b.${1:name} }]]>
+  </content>
+  <tabTrigger>sort</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>sort{ |a, b| a .. b }</description>
+</snippet>

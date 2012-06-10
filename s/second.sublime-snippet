@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[second]]>
+  </content>
+  <tabTrigger>second</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>秒</description>
+</snippet>

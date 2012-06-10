@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[to_s]]>
+  </content>
+  <tabTrigger>to_s</tabTrigger>
+  <scope>source.ruby.rails</scope>
+  <description>to_s</description>
+</snippet>

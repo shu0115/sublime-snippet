@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[unless]]>
+  </content>
+  <tabTrigger>unless</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>unless</description>
+</snippet>
