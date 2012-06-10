@@ -3,6 +3,6 @@
     <![CDATA[to_s]]>
   </content>
   <tabTrigger>to_s</tabTrigger>
-  <scope>source.ruby.rails</scope>
+  <scope>source.ruby</scope>
   <description>to_s</description>
 </snippet>

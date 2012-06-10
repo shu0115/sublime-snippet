@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[timestamp]]>
+  </content>
+  <tabTrigger>timestamp</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>timestamp</description>
+</snippet>

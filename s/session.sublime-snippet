@@ -3,6 +3,6 @@
     <![CDATA[session[:${0:}]]]>
   </content>
   <tabTrigger>session</tabTrigger>
-  <scope>source.ruby.rails</scope>
+  <scope>source.ruby</scope>
   <description>session</description>
 </snippet>

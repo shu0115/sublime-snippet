@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[years_since(${1:years})]]>
+  </content>
+  <tabTrigger>years_since</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>years_since</description>
+</snippet>
