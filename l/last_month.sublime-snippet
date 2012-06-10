@@ -1,8 +1,0 @@
-<snippet>
-  <content>
-    <![CDATA[last_month]]>
-  </content>
-  <tabTrigger>last_month</tabTrigger>
-  <scope>source.ruby</scope>
-  <description>last_month</description>
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-  <content>
-    <![CDATA[order( "${1:column} DESC" )]]>
-  </content>
-  <tabTrigger>order</tabTrigger>
-  <scope>source.ruby.rails</scope>
-  <description>order</description>
-</snippet>

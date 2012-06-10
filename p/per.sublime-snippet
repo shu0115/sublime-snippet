@@ -1,8 +1,0 @@
-<snippet>
-  <content>
-    <![CDATA[per( 50 )]]>
-  </content>
-  <tabTrigger>per</tabTrigger>
-  <scope>source.ruby.rails</scope>
-  <description>per( 50 )</description>
-</snippet>

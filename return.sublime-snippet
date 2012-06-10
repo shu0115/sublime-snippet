@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[return]]></content>
-  <tabTrigger>return</tabTrigger>
-  <scope>source.ruby.rails</scope>
-  <description>return</description>
-</snippet>

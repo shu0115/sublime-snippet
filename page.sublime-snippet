@@ -1,8 +1,0 @@
-<snippet>
-  <content>
-    <![CDATA[page( params[:page] )]]>
-  </content>
-  <tabTrigger>page</tabTrigger>
-  <scope>source.ruby.rails</scope>
-  <description>page( params[:page] )</description>
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-  <content>
-    <![CDATA[end_of_day]]>
-  </content>
-  <tabTrigger>end_of_day</tabTrigger>
-  <scope>source.ruby.rails</scope>
-  <description>end_of_day</description>
-</snippet>

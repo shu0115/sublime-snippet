@@ -1,8 +1,0 @@
-<snippet>
-  <content>
-    <![CDATA[month]]>
-  </content>
-  <tabTrigger>month</tabTrigger>
-  <scope>source.ruby.rails</scope>
-  <description>month</description>
-</snippet>

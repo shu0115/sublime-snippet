@@ -1,8 +1,0 @@
-<snippet>
-  <content>
-    <![CDATA[beginning_of_year]]>
-  </content>
-  <tabTrigger>beginning_of_year</tabTrigger>
-  <scope>source.ruby</scope>
-  <description>beginning_of_year</description>
-</snippet>

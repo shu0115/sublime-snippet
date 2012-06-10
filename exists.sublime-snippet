@@ -1,8 +1,0 @@
-<snippet>
-  <content>
-    <![CDATA[exists?]]>
-  </content>
-  <tabTrigger>exists?</tabTrigger>
-  <scope>source.ruby.rails</scope>
-  <description>exists?</description>
-</snippet>

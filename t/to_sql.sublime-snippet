@@ -1,8 +1,0 @@
-<snippet>
-  <content>
-    <![CDATA[to_sql]]>
-  </content>
-  <tabTrigger>to_sql</tabTrigger>
-  <scope>source.ruby</scope>
-  <description>to_sql</description>
-</snippet>

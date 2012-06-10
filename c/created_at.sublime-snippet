@@ -1,8 +1,0 @@
-<snippet>
-  <content>
-    <![CDATA[created_at]]>
-  </content>
-  <tabTrigger>created_at</tabTrigger>
-  <scope>source.ruby.rails</scope>
-  <description>created_at</description>
-</snippet>

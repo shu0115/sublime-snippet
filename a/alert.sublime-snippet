@@ -1,8 +1,0 @@
-<snippet>
-  <content>
-    <![CDATA[alert]]>
-  </content>
-  <tabTrigger>alert</tabTrigger>
-  <scope>source.ruby.rails</scope>
-  <description>alert</description>
-</snippet>

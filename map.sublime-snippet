@@ -1,8 +1,0 @@
-<snippet>
-  <content>
-    <![CDATA[map{ |${1:x}|  }]]>
-  </content>
-  <tabTrigger>map</tabTrigger>
-  <scope>source.ruby</scope>
-  <description>map{ |x| }</description>
-</snippet>
