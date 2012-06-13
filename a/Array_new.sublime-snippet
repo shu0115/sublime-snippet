@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[Array.new]]>
+  </content>
+  <tabTrigger>Array.new</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>Array.new</description>
+</snippet>
