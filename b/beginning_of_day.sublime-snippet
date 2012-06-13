@@ -4,5 +4,5 @@
   </content>
   <tabTrigger>beginning_of_day</tabTrigger>
   <scope>source.ruby</scope>
-  <description>beginning_of_day</description>
+  <description>day</description>
 </snippet>

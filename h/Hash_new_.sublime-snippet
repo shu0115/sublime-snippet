@@ -1,8 +1,8 @@
 <snippet>
   <content>
-    <![CDATA[Hash.new]]>
+    <![CDATA[Hash.new{ |hash, key| hash[key] = ${1:Hash.new} }]]>
   </content>
   <tabTrigger>Hash.new</tabTrigger>
   <scope>source.ruby</scope>
-  <description>Hash.new</description>
+  <description>Hash.new{|| }</description>
 </snippet>

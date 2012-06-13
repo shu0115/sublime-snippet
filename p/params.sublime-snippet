@@ -3,6 +3,6 @@
     <![CDATA[params[:${0:}]]]>
   </content>
   <tabTrigger>params</tabTrigger>
-  <scope>source.ruby.rails</scope>
+  <scope>source.ruby</scope>
   <description>params</description>
 </snippet>

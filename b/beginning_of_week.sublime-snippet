@@ -4,5 +4,5 @@
   </content>
   <tabTrigger>beginning_of_week</tabTrigger>
   <scope>source.ruby</scope>
-  <description>beginning_of_week</description>
+  <description>week</description>
 </snippet>
