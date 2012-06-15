@@ -3,6 +3,6 @@
     <![CDATA[where( ${1:column}: )]]>
   </content>
   <tabTrigger>where</tabTrigger>
-  <scope>source.ruby.rails</scope>
+  <scope>source.ruby</scope>
   <description>where( column: )</description>
 </snippet>

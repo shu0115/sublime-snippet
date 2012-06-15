@@ -3,6 +3,6 @@
     <![CDATA[create( ${1:column}: )]]>
   </content>
   <tabTrigger>create</tabTrigger>
-  <scope>source.ruby.rails</scope>
+  <scope>source.ruby</scope>
   <description>create( column: )</description>
 </snippet>

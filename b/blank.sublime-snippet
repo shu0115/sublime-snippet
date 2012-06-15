@@ -3,6 +3,6 @@
     <![CDATA[blank?]]>
   </content>
   <tabTrigger>blank?</tabTrigger>
-  <scope>source.ruby.rails</scope>
+  <scope>source.ruby</scope>
   <description>blank?</description>
 </snippet>

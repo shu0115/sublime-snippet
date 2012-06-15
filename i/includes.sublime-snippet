@@ -3,6 +3,6 @@
     <![CDATA[includes( :${1:association} )]]>
   </content>
   <tabTrigger>includes</tabTrigger>
-  <scope>source.ruby.rails</scope>
-  <description>includes( :association )</description>
+  <scope>source.ruby</scope>
+  <description>includes(  )</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[has_many :${1:models}]]>
+  </content>
+  <tabTrigger>has_many</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>has_many</description>
+</snippet>

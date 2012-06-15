@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[number_to_currency( ${1:number}, precision: 0, format: '%n' )]]>
+  </content>
+  <tabTrigger>number_to_currency</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>number_to_currency</description>
+</snippet>

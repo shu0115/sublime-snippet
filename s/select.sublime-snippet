@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[select( "${1:column}" )]]>
+  </content>
+  <tabTrigger>select</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>select("column")</description>
+</snippet>

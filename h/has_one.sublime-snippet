@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[has_one :${1:model}]]>
+  </content>
+  <tabTrigger>has_one</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>has_one</description>
+</snippet>
