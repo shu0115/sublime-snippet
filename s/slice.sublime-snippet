@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[slice(${0:})]]>
+  </content>
+  <tabTrigger>slice</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>slice()</description>
+</snippet>
