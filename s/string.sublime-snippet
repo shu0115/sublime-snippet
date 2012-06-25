@@ -3,6 +3,6 @@
     <![CDATA[string]]>
   </content>
   <tabTrigger>string</tabTrigger>
-  <scope>source.ruby</scope>
+  <scope>source</scope>
   <description>string</description>
 </snippet>

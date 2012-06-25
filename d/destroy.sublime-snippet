@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[destroy]]>
+  </content>
+  <tabTrigger>destroy</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>destroy</description>
+</snippet>
