@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[raw]]>
+  </content>
+  <tabTrigger>raw</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>raw</description>
+</snippet>
