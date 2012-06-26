@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[cover?(${0:})]]>
+  </content>
+  <tabTrigger>cover?</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>cover?()</description>
+</snippet>

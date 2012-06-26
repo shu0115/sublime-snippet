@@ -3,6 +3,6 @@
     <![CDATA[alert]]>
   </content>
   <tabTrigger>alert</tabTrigger>
-  <scope>source.ruby.rails</scope>
+  <scope>source.ruby</scope>
   <description>alert</description>
 </snippet>
