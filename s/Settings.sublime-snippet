@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[Settings]]>
+  </content>
+  <tabTrigger>Settings</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>Settings</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[times{ |${1:i}|  }]]>
+  </content>
+  <tabTrigger>times</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>times{||}</description>
+</snippet>
