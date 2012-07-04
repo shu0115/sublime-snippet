@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[:group => :development]]>
+  </content>
+  <tabTrigger>group</tabTrigger>
+  <scope>source</scope>
+  <description>:group => :development</description>
+</snippet>
