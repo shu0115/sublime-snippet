@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[Rails.env.development?]]>
+  </content>
+  <tabTrigger>Rails.env.development?</tabTrigger>
+  <scope>source.ruby</scope>
+  <description></description>
+</snippet>

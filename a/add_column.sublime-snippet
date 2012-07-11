@@ -3,6 +3,6 @@
     <![CDATA[add_column :${1:table_names}, :${2:col_name}, :${3:string}]]>
   </content>
   <tabTrigger>add_column</tabTrigger>
-  <scope>source.ruby.rails</scope>
+  <scope>source.ruby</scope>
   <description>add_column</description>
 </snippet>
