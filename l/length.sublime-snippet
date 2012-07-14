@@ -3,6 +3,6 @@
     <![CDATA[length]]>
   </content>
   <tabTrigger>length</tabTrigger>
-  <scope>source.ruby.rails</scope>
+  <scope>source.ruby</scope>
   <description>length</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[tapp]]>
+  </content>
+  <tabTrigger>tapp</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>tapp</description>
+</snippet>
