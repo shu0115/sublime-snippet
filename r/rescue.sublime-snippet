@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[rescue => ${1:ex}]]>
+  </content>
+  <tabTrigger>rescue => ex</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>rescue => ex</description>
+</snippet>
