@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[redirect_to( action: "${1:index}" )]]>
+  </content>
+  <tabTrigger>redirect_to</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>redirect_to</description>
+</snippet>

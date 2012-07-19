@@ -1,8 +1,8 @@
 <snippet>
   <content>
-    <![CDATA[alert]]>
+    <![CDATA[alert: "${1:message}"]]>
   </content>
-  <tabTrigger>alert</tabTrigger>
+  <tabTrigger>alert:</tabTrigger>
   <scope>source.ruby</scope>
-  <description>alert</description>
+  <description>alert:</description>
 </snippet>

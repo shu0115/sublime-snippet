@@ -3,6 +3,6 @@
     <![CDATA[exists?]]>
   </content>
   <tabTrigger>exists?</tabTrigger>
-  <scope>source.ruby.rails</scope>
+  <scope>source.ruby</scope>
   <description>exists?</description>
 </snippet>

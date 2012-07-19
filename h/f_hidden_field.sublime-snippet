@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[f.hidden_field :${1:key}, { value: ${2:value} }]]>
+  </content>
+  <tabTrigger>hidden_field</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>f.hidden_field</description>
+</snippet>

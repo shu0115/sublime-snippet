@@ -2,7 +2,7 @@
   <content>
     <![CDATA[map{ |${1:x}|  }]]>
   </content>
-  <tabTrigger>map</tabTrigger>
+  <tabTrigger>mapx</tabTrigger>
   <scope>source.ruby</scope>
   <description>map{ |x| }</description>
 </snippet>
