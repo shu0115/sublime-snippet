@@ -3,6 +3,6 @@
     <![CDATA[updated_at]]>
   </content>
   <tabTrigger>updated_at</tabTrigger>
-  <scope>source.ruby.rails</scope>
+  <scope>source.ruby</scope>
   <description>updated_at</description>
 </snippet>
