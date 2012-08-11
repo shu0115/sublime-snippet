@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[each.with_index(${1:offset}){ |${2:item}, index| }]]>
+  </content>
+  <tabTrigger>eawi</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>each.with_index</description>
+</snippet>

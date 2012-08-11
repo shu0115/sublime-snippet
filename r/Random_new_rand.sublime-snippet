@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[Random.new.rand(${1:arg})]]>
+  </content>
+  <tabTrigger>Random.new.rand</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>Random.new.rand</description>
+</snippet>
