@@ -4,5 +4,5 @@
   </content>
   <tabTrigger>order</tabTrigger>
   <scope>source.ruby</scope>
-  <description>order</description>
+  <description>order()</description>
 </snippet>
