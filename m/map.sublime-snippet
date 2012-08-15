@@ -1,6 +1,6 @@
 <snippet>
   <content>
-    <![CDATA[map{ |${1:x}|  }]]>
+    <![CDATA[map{ |${1:x}| ${1:x} }]]>
   </content>
   <tabTrigger>mapx</tabTrigger>
   <scope>source.ruby</scope>

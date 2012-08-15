@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[ago(${1:val})]]>
+  </content>
+  <tabTrigger>ago</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>ago()</description>
+</snippet>

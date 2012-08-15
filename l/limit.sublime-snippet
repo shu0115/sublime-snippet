@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[limit( ${1:limit} )]]>
+  </content>
+  <tabTrigger>limit</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>limit()</description>
+</snippet>

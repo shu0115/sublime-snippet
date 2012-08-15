@@ -4,5 +4,5 @@
   </content>
   <tabTrigger>includes</tabTrigger>
   <scope>source.ruby</scope>
-  <description>includes(  )</description>
+  <description>includes( :association )</description>
 </snippet>

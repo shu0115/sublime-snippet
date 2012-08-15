@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[include?( ${1:val} )]]>
+  </content>
+  <tabTrigger>include?</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>include?( val )</description>
+</snippet>

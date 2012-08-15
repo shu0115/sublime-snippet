@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[since(${1:val})]]>
+  </content>
+  <tabTrigger>since</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>since()</description>
+</snippet>

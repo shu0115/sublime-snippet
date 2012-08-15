@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[lt( ${1:field}: ${2:value} )]]>
+  </content>
+  <tabTrigger>lt</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>lt()</description>
+</snippet>

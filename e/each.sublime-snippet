@@ -4,5 +4,5 @@
   </content>
   <tabTrigger>ea</tabTrigger>
   <scope>source.ruby</scope>
-  <description>each</description>
+  <description>each{ |e| }</description>
 </snippet>

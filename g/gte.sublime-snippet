@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[gte( ${1:field}: ${2:value} )]]>
+  </content>
+  <tabTrigger>gte</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>gte()</description>
+</snippet>
