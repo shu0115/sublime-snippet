@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[BigDecimal("${1:string}").round(1)]]>
+  </content>
+  <tabTrigger>round</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>BigDecimal().round()</description>
+</snippet>
