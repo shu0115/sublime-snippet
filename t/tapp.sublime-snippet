@@ -1,8 +1,8 @@
 <snippet>
   <content>
-    <![CDATA[print "[  ] : " ; .tapp ;]]>
+    <![CDATA[puts "[  ] : " ; .tapp ;]]>
   </content>
   <tabTrigger>tapp</tabTrigger>
   <scope>source.ruby</scope>
-  <description>print "[  ] : " ; .tapp ;</description>
+  <description>puts "[  ] : " ; .tapp ;</description>
 </snippet>
