@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[delete_all]]>
+  </content>
+  <tabTrigger>delete_all</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>delete_all</description>
+</snippet>
