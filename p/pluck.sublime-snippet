@@ -1,8 +1,8 @@
 <snippet>
   <content>
-    <![CDATA[pluck( ${1:column_name} )]]>
+    <![CDATA[pluck(:${1:column})]]>
   </content>
   <tabTrigger>pluck</tabTrigger>
   <scope>source.ruby</scope>
-  <description>pluck( column_name )</description>
+  <description>pluck(:column)</description>
 </snippet>

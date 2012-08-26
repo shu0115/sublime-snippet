@@ -1,8 +1,8 @@
 <snippet>
   <content>
-    <![CDATA[rescue => ${1:ex}]]>
+    <![CDATA[rescue => ${1:exception}]]>
   </content>
-  <tabTrigger>rescue => ex</tabTrigger>
+  <tabTrigger>rescue => exception</tabTrigger>
   <scope>source.ruby</scope>
-  <description>rescue => ex</description>
+  <description>rescue => exception</description>
 </snippet>

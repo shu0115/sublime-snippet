@@ -3,6 +3,6 @@
     <![CDATA[helper_method :${1:method_name}]]>
   </content>
   <tabTrigger>helper_method</tabTrigger>
-  <scope>source.ruby.rails</scope>
+  <scope>source.ruby</scope>
   <description>helper_method</description>
 </snippet>

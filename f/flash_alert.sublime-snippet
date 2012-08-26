@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[flash[:alert]]]>
+  </content>
+  <tabTrigger>flash[:alert]</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>flash[:alert]</description>
+</snippet>
