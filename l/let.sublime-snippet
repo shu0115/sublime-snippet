@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[let(:${1:name}) { ${2:value} }]]>
+  </content>
+  <tabTrigger>let</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>let(name) { value }</description>
+</snippet>
