@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[update_attributes( key: "value" )]]>
+  </content>
+  <tabTrigger>update_attributes</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>update_attributes</description>
+</snippet>

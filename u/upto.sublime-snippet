@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[upto(${1:max}){ |n| }]]>
+  </content>
+  <tabTrigger>upto</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>upto</description>
+</snippet>
