@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[delete_if{ |${1:key}, ${2:value}| }]]>
+  </content>
+  <tabTrigger>delete_if_hash</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>delete_if{ |key, value| }</description>
+</snippet>

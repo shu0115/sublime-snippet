@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[delete_if{ |${1:x}| }]]>
+  </content>
+  <tabTrigger>delete_if</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>delete_if{ |x| }</description>
+</snippet>

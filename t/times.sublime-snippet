@@ -4,5 +4,5 @@
   </content>
   <tabTrigger>times</tabTrigger>
   <scope>source.ruby</scope>
-  <description>times{||}</description>
+  <description>times{ |i| }</description>
 </snippet>

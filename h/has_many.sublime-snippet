@@ -1,6 +1,6 @@
 <snippet>
   <content>
-    <![CDATA[has_many :${1:models}]]>
+    <![CDATA[has_many :${1:association}]]>
   </content>
   <tabTrigger>has_many</tabTrigger>
   <scope>source.ruby</scope>
