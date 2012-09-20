@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[to_json]]>
+  </content>
+  <tabTrigger>to_json</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>to_json</description>
+</snippet>

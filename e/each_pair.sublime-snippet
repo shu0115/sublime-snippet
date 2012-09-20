@@ -1,8 +1,8 @@
 <snippet>
   <content>
-    <![CDATA[each_pair { |${1:key}, ${2:value}|  }]]>
+    <![CDATA[each_pair{ |${1:key}, ${2:value}|  }]]>
   </content>
   <tabTrigger>each_pair</tabTrigger>
   <scope>source.ruby</scope>
-  <description>each_pair { |key, value| }</description>
+  <description>each_pair{ |key, value| }</description>
 </snippet>

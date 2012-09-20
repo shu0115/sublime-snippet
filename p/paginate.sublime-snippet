@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[paginate @${1:column}]]>
+  </content>
+  <tabTrigger>paginate</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>paginate</description>
+</snippet>

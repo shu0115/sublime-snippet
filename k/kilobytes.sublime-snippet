@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[kilobytes]]>
+  </content>
+  <tabTrigger>kilobytes</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>kilobytes</description>
+</snippet>
