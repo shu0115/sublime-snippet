@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[merge()]]>
+  </content>
+  <tabTrigger>merge()</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>merge()</description>
+</snippet>

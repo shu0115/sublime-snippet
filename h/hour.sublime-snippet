@@ -4,5 +4,5 @@
   </content>
   <tabTrigger>hour</tabTrigger>
   <scope>source.ruby</scope>
-  <description>時</description>
+  <description>hour</description>
 </snippet>

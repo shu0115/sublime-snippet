@@ -1,6 +1,6 @@
 <snippet>
   <content>
-    <![CDATA[Settings.${1:key}]]>
+    <![CDATA[Settings.${1:}]]>
   </content>
   <tabTrigger>Settings</tabTrigger>
   <scope>source.ruby</scope>
