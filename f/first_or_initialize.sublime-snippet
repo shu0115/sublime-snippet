@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[first_or_initialize( ${1:column}: ${2:value} )]]>
+  </content>
+  <tabTrigger>first_or_initialize</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>initialize()</description>
+</snippet>
