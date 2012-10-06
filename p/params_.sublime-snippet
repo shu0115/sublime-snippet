@@ -1,8 +1,8 @@
 <snippet>
   <content>
-    <![CDATA[params]]>
+    <![CDATA[params[:${0:}]]]>
   </content>
   <tabTrigger>params</tabTrigger>
   <scope>source.ruby</scope>
-  <description>params</description>
+  <description>params[]</description>
 </snippet>

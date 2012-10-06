@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[render layout: false]]>
+  </content>
+  <tabTrigger>render layout: false</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>render layout: false</description>
+</snippet>

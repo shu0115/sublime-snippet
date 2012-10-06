@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[except]]>
+  </content>
+  <tabTrigger>except</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>except</description>
+</snippet>
