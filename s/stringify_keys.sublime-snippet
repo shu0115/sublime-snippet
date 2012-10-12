@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[stringify_keys!]]>
+  </content>
+  <tabTrigger>stringify_keys!</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>stringify_keys!</description>
+</snippet>

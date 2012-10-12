@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[symbolize_keys!]]>
+  </content>
+  <tabTrigger>symbolize_keys!</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>symbolize_keys!</description>
+</snippet>

@@ -2,7 +2,7 @@
   <content>
     <![CDATA[render action: ""]]>
   </content>
-  <tabTrigger>render action: ""</tabTrigger>
+  <tabTrigger>render action</tabTrigger>
   <scope>source.ruby</scope>
-  <description>render action: ""</description>
+  <description>render action</description>
 </snippet>

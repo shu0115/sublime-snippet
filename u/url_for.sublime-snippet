@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[url_for( ${1:path} )]]>
+  </content>
+  <tabTrigger>url_for</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>url_for()</description>
+</snippet>

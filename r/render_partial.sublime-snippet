@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[render partial: '${1:template}']]>
+  </content>
+  <tabTrigger>render partial</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>render partial</description>
+</snippet>
