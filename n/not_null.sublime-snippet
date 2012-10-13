@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[IS NOT NULL]]>
+  </content>
+  <tabTrigger>NOT NULL</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>IS NOT NULL</description>
+</snippet>
