@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[puts "[ ---------- params ---------- ]" ; params.tapp ;]]>
+  </content>
+  <tabTrigger>paramstapp</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>params tapp</description>
+</snippet>
