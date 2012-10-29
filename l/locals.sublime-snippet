@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[locals: { ${1:key}: ${2:value} }]]>
+  </content>
+  <tabTrigger>locals</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>locals</description>
+</snippet>

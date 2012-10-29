@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[javascript:void(0)]]>
+  </content>
+  <tabTrigger>void</tabTrigger>
+  <scope>source</scope>
+  <description>javascript:void(0)</description>
+</snippet>
