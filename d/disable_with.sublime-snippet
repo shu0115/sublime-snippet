@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[disable_with: "${1:}"]]>
+  </content>
+  <tabTrigger>disable_with</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>disable_with</description>
+</snippet>

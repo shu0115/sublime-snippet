@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[concat( ${1:["array"]} )]]>
+  </content>
+  <tabTrigger>concat</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>concat()</description>
+</snippet>
