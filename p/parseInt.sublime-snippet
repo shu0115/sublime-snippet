@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[parseInt(${1:str}, 10)]]>
+  </content>
+  <tabTrigger>parseInt</tabTrigger>
+  <scope>source</scope>
+  <description>parseInt</description>
+</snippet>

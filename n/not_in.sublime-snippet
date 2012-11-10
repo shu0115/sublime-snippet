@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[NOT IN]]>
+  </content>
+  <tabTrigger>NOT IN</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>NOT IN</description>
+</snippet>

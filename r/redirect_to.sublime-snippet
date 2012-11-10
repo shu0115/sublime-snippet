@@ -1,6 +1,6 @@
 <snippet>
   <content>
-    <![CDATA[redirect_to( action: "${1:index}" )]]>
+    <![CDATA[redirect_to "${1:path}"]]>
   </content>
   <tabTrigger>redirect_to</tabTrigger>
   <scope>source.ruby</scope>

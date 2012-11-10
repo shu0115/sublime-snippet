@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[data-disable-with="${1:}"]]>
+  </content>
+  <tabTrigger>data-disable-with</tabTrigger>
+  <scope>source</scope>
+  <description>data-disable-with</description>
+</snippet>
