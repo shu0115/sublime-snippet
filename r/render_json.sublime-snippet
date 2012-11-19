@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[render json: { key: "${1:value}" }]]>
+  </content>
+  <tabTrigger>render json</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>render json</description>
+</snippet>
