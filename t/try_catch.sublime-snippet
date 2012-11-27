@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+    <![CDATA[try{
+}catch( e ){
+  console.log( "[ e ] : " + e );
+}]]>
+  </content>
+  <tabTrigger>try catch</tabTrigger>
+  <scope>source</scope>
+  <description>try catch</description>
+</snippet>
