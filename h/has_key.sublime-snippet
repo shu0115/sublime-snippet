@@ -1,6 +1,6 @@
 <snippet>
   <content>
-    <![CDATA[has_key?(${0:key})]]>
+    <![CDATA[has_key?("${0:key}")]]>
   </content>
   <tabTrigger>has_key?</tabTrigger>
   <scope>source.ruby</scope>
