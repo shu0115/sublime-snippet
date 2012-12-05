@@ -1,8 +1,8 @@
 <snippet>
   <content>
-    <![CDATA[redirect_to "${1:path}"]]>
+    <![CDATA[redirect_to ${1:_path}]]>
   </content>
-  <tabTrigger>redirect_to</tabTrigger>
+  <tabTrigger>redirect_to path</tabTrigger>
   <scope>source.ruby</scope>
-  <description>redirect_to</description>
+  <description>redirect_to path</description>
 </snippet>
