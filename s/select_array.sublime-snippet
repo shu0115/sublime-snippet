@@ -1,6 +1,6 @@
 <snippet>
   <content>
-    <![CDATA[select{ |${1:value}| }]]>
+    <![CDATA[select{ |${1:x}| ${2:x} == ${3:y} }]]>
   </content>
   <tabTrigger>select</tabTrigger>
   <scope>source.ruby</scope>

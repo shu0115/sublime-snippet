@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[foreign_key: "${0:id_column}"]]>
+  </content>
+  <tabTrigger>foreign_key</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>foreign_key</description>
+</snippet>
