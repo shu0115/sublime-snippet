@@ -4,5 +4,5 @@
   </content>
   <tabTrigger>first_or_initialize</tabTrigger>
   <scope>source.ruby</scope>
-  <description>initialize()</description>
+  <description>first_or_initialize</description>
 </snippet>
