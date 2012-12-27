@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[assigns(:${1:})]]>
+  </content>
+  <tabTrigger>assigns</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>assigns()</description>
+</snippet>
