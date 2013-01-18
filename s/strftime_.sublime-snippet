@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[strftime("%Y-%m-%d")]]>
+  </content>
+  <tabTrigger>strftime</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>strftime("%Y-%m-%d")</description>
+</snippet>

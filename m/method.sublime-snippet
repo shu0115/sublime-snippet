@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[method]]>
+  </content>
+  <tabTrigger>method</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>method</description>
+</snippet>

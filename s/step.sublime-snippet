@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[step(max, step).map{ |n| n }]]>
+  </content>
+  <tabTrigger>step</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>step()</description>
+</snippet>

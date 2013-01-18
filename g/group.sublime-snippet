@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[group( "${1:column}" )]]>
+  </content>
+  <tabTrigger>group</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>group()</description>
+</snippet>

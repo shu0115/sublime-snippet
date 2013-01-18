@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[scoped]]>
+  </content>
+  <tabTrigger>scoped</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>scoped</description>
+</snippet>
