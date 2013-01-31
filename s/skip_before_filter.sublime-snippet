@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[skip_before_filter :${0:method}]]>
+  </content>
+  <tabTrigger>skip_before_filter</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>skip_before_filter</description>
+</snippet>

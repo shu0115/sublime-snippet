@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[session[:user_id]]]>
+  </content>
+  <tabTrigger>session</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>session[:user_id]</description>
+</snippet>

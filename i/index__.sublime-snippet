@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[index{ |i| i == ${1:x} }]]>
+  </content>
+  <tabTrigger>index</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>index{}</description>
+</snippet>
