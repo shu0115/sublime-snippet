@@ -1,6 +1,6 @@
 <snippet>
   <content>
-    <![CDATA[hidden_field( "${1:id_1}", "${2:id_2}", value: ${3:value} )]]>
+    <![CDATA[hidden_field( "${1:id_1}", "${2:id_2}", value: ${3:"value"} )]]>
   </content>
   <tabTrigger>hidden_field</tabTrigger>
   <scope>source.ruby</scope>

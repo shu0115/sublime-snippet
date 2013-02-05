@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[shallow: true]]>
+  </content>
+  <tabTrigger>shallow: true</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>shallow: true</description>
+</snippet>
