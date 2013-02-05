@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[f.text_field :${1:attribute}, value: ${2:"VALUE"}]]>
+  </content>
+  <tabTrigger>text_field</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>f.text_field</description>
+</snippet>

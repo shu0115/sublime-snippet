@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[form_tag( ${1:path}, method: "put" ) do]]>
+  </content>
+  <tabTrigger>form_tag</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>form_tag put</description>
+</snippet>

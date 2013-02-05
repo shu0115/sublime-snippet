@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[submit_tag '${1:path}']]>
+  </content>
+  <tabTrigger>submit_tag</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>submit_tag</description>
+</snippet>
