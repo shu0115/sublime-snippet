@@ -1,8 +1,0 @@
-<snippet>
-  <content>
-    <![CDATA[render action: ""]]>
-  </content>
-  <tabTrigger>render action</tabTrigger>
-  <scope>source.ruby</scope>
-  <description>render action</description>
-</snippet>
