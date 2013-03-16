@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[before_initialize :${1:method}]]>
+  </content>
+  <tabTrigger>before_initialize</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>before_initialize</description>
+</snippet>

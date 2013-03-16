@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[between?(${1:min}, ${2:max})]]>
+  </content>
+  <tabTrigger>between?()</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>between?()</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[before_filter :${1:}]]>
+  </content>
+  <tabTrigger>before_filter</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>before_filter</description>
+</snippet>

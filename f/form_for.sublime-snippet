@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[form_for :${1:model}, url: ${2:}_path() do |f|]]>
+  </content>
+  <tabTrigger>form_for</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>form_for</description>
+</snippet>

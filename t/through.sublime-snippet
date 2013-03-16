@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[:through => :${1:}]]>
+  </content>
+  <tabTrigger>through</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>through</description>
+</snippet>
