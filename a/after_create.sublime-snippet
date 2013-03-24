@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[after_create :${1:method}]]>
+  </content>
+  <tabTrigger>after_create</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>after_create</description>
+</snippet>

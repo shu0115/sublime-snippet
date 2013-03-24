@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[build( ${1:attr} )]]>
+  </content>
+  <tabTrigger>build</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>build</description>
+</snippet>

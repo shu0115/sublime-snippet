@@ -1,0 +1,10 @@
+<snippet>
+  <content>
+    <![CDATA[
+find_each do |${1:}|
+end]]>
+  </content>
+  <tabTrigger>find_each</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>find_each</description>
+</snippet>
