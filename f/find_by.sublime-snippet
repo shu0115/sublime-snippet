@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[find_by(id: ${1:id})]]>
+  </content>
+  <tabTrigger>find_by</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>find_by()</description>
+</snippet>

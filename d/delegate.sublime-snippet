@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+    <![CDATA[delegate :${1:name}, to: :${2:model}, prefix: true, allow_nil: true]]>
+  </content>
+  <tabTrigger>delegate</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>delegate</description>
+</snippet>
+

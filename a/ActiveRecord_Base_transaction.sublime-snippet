@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+    <![CDATA[ActiveRecord::Base.transaction do
+end]]>
+  </content>
+  <tabTrigger>transaction</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>ActiveRecord::Base.transaction</description>
+</snippet>

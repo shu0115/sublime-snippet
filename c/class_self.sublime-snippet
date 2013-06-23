@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+    <![CDATA[class << self
+
+end
+]]>
+  </content>
+  <tabTrigger>self</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>class self</description>
+</snippet>

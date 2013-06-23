@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[SecureRandom.hex(${1:n})]]>
+  </content>
+  <tabTrigger>SecureRandom</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>SecureRandom</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[Date.parse("${1:date}")]]>
+  </content>
+  <tabTrigger>Date.parse</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>Date.parse()</description>
+</snippet>

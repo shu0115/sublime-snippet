@@ -1,6 +1,6 @@
 <snippet>
   <content>
-    <![CDATA[paginate @${1:column}]]>
+    <![CDATA[paginate @${1:users}]]>
   </content>
   <tabTrigger>paginate</tabTrigger>
   <scope>source.ruby</scope>

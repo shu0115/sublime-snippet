@@ -1,6 +1,6 @@
 <snippet>
   <content>
-    <![CDATA[merge()]]>
+    <![CDATA[merge( { ${1:key}: value } )]]>
   </content>
   <tabTrigger>merge()</tabTrigger>
   <scope>source.ruby</scope>

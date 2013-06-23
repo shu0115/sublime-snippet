@@ -3,6 +3,6 @@
     <![CDATA[link_to( ${1:"text"}, ${2:_path} )]]>
   </content>
   <tabTrigger>link_to</tabTrigger>
-  <scope>source.ruby</scope>
+  <scope>source</scope>
   <description>link_to</description>
 </snippet>

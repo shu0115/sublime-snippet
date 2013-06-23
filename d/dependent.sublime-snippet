@@ -1,8 +1,8 @@
 <snippet>
   <content>
-    <![CDATA[:dependent => :destroy]]>
+    <![CDATA[dependent: :destroy]]>
   </content>
   <tabTrigger>dependent</tabTrigger>
   <scope>source.ruby</scope>
-  <description>:dependent => :destroy</description>
+  <description>dependent: :destroy</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[lambda { |${1:args}| }]]>
+  </content>
+  <tabTrigger>lambda</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>lambda { |args| }</description>
+</snippet>
