@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[logger.error("[ ---------- ${1:output} ---------- ]") ; logger.error(${1:output}.tapp) ;]]>
+  </content>
+  <tabTrigger>error</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>logger.error</description>
+</snippet>

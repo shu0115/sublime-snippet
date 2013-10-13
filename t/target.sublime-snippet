@@ -1,6 +1,6 @@
 <snippet>
   <content>
-    <![CDATA[target: "${1:_blank}"]]>
+    <![CDATA[target: '${1:_blank}']]>
   </content>
   <tabTrigger>target:</tabTrigger>
   <scope>source.ruby</scope>

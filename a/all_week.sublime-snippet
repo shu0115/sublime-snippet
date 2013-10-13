@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[all_week]]>
+  </content>
+  <tabTrigger>all_week</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>all_week</description>
+</snippet>

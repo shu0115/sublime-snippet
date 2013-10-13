@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[all_quarter]]>
+  </content>
+  <tabTrigger>all_quarter</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>all_quarter</description>
+</snippet>

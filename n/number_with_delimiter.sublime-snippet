@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[number_with_delimiter(${1:number})]]>
+  </content>
+  <tabTrigger>number_with_delimiter</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>number_with_delimiter</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[all_day]]>
+  </content>
+  <tabTrigger>all_day</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>all_day</description>
+</snippet>

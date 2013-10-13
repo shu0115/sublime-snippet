@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[Hash.new{ |hash, key| hash[key] = Hash.new }]]>
+  </content>
+  <tabTrigger>Hash.new</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>double_hash</description>
+</snippet>

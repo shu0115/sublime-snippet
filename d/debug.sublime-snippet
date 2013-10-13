@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[logger.debug("[ ---------- ${1:output} ---------- ]") ; logger.debug(${1:output}.tapp) ;]]>
+  </content>
+  <tabTrigger>debug</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>logger.debug</description>
+</snippet>

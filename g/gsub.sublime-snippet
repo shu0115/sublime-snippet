@@ -1,8 +1,8 @@
 <snippet>
   <content>
-    <![CDATA[gsub( "${1:pattern}", "${2:replace}" )]]>
+    <![CDATA[gsub("${1:pattern}", "${2:replace}")]]>
   </content>
   <tabTrigger>gsub</tabTrigger>
   <scope>source.ruby</scope>
-  <description>gsub( pattern, replace )</description>
+  <description>gsub(pattern, replace)</description>
 </snippet>

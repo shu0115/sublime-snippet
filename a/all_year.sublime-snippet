@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[all_year]]>
+  </content>
+  <tabTrigger>all_year</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>all_year</description>
+</snippet>
