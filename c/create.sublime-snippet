@@ -1,8 +1,8 @@
 <snippet>
   <content>
-    <![CDATA[create( ${1:column}: ${2:value} )]]>
+    <![CDATA[create(${1:column}: ${2:value})]]>
   </content>
   <tabTrigger>create</tabTrigger>
   <scope>source.ruby</scope>
-  <description>create( column: )</description>
+  <description>create(column: )</description>
 </snippet>

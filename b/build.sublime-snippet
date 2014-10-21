@@ -1,6 +1,6 @@
 <snippet>
   <content>
-    <![CDATA[build( ${1:attr} )]]>
+    <![CDATA[build(${1:attr: value})]]>
   </content>
   <tabTrigger>build</tabTrigger>
   <scope>source.ruby</scope>

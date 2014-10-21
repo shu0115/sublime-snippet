@@ -1,8 +1,8 @@
 <snippet>
   <content>
-    <![CDATA[each_value { |${1:v}| }]]>
+    <![CDATA[each_value do |${1:v}| end]]>
   </content>
   <tabTrigger>each_value</tabTrigger>
   <scope>source.ruby</scope>
-  <description>each_value { |v| }</description>
+  <description>each_value do |v| end</description>
 </snippet>

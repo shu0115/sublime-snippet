@@ -1,6 +1,6 @@
 <snippet>
   <content>
-    <![CDATA[puts "[ ----------  ---------- ]" ; .tapp ;]]>
+    <![CDATA[puts "[ ----------  ---------- ]" ; .tapp;]]>
   </content>
   <tabTrigger>tapp</tabTrigger>
   <scope>source.ruby</scope>

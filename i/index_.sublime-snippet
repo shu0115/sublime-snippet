@@ -1,6 +1,6 @@
 <snippet>
   <content>
-    <![CDATA[index( ${1:args} )]]>
+    <![CDATA[index(${1:args})]]>
   </content>
   <tabTrigger>index</tabTrigger>
   <scope>source.ruby</scope>

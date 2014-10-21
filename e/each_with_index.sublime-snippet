@@ -1,6 +1,6 @@
 <snippet>
   <content>
-    <![CDATA[each.with_index(${1:offset}) { |${2:item}, index| }]]>
+    <![CDATA[each.with_index(${1:offset}) do |${2:item}, index| end]]>
   </content>
   <tabTrigger>each</tabTrigger>
   <scope>source.ruby</scope>
