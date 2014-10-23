@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[before_action :${1:name}]]>
+  </content>
+  <tabTrigger>before_action</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>before_action</description>
+</snippet>
