@@ -1,0 +1,13 @@
+<snippet>
+  <content>
+    <![CDATA[
+begin
+
+rescue => exception
+
+end]]>
+  </content>
+  <tabTrigger>begin</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>begin rescue end</description>
+</snippet>

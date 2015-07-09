@@ -2,9 +2,9 @@
   <content>
     <![CDATA[
 begin
-rescue => e
-  print "[ rescue ] : " ; p e ;
-  e.backtrace.each.with_index(1){ |data, index|
+rescue => exception
+  print "[ rescue ] : " ; p exception ;
+  exception.backtrace.each.with_index(1){ |data, index|
     print "[ #{index} ] : " ; p data ;
   }
 end]]>

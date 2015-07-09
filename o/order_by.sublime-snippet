@@ -1,6 +1,6 @@
 <snippet>
   <content>
-    <![CDATA[order_by( "${1:column} DESC" )]]>
+    <![CDATA[order_by("${1:column} DESC")]]>
   </content>
   <tabTrigger>order_by</tabTrigger>
   <scope>source.ruby</scope>
