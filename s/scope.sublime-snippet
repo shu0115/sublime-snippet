@@ -1,6 +1,6 @@
 <snippet>
   <content>
-    <![CDATA[scope :${1:name}, -> { where(${2:models}: { ${3:key}: ${3:value} }) }]]>
+    <![CDATA[scope :${1:name}, -> { where(${2:key}: ${3:value}) }]]>
   </content>
   <tabTrigger>scope</tabTrigger>
   <scope>source.ruby</scope>
