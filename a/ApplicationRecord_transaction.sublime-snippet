@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+    <![CDATA[ApplicationRecord.transaction do
+end]]>
+  </content>
+  <tabTrigger>transaction</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>ApplicationRecord.transaction</description>
+</snippet>
