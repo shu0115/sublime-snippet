@@ -1,8 +1,8 @@
 <snippet>
   <content>
-    <![CDATA[times{ |${1:i}|  }]]>
+    <![CDATA[times do |${1:i}| end]]>
   </content>
   <tabTrigger>times</tabTrigger>
   <scope>source.ruby</scope>
-  <description>times{ |i| }</description>
+  <description>times do end</description>
 </snippet>
