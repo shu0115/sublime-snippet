@@ -1,8 +1,8 @@
 <snippet>
   <content>
-    <![CDATA[index_by(&:${1:id})]]>
+    <![CDATA[index_by { |x| x.${1:id} }]]>
   </content>
   <tabTrigger>index_by</tabTrigger>
   <scope>source.ruby</scope>
-  <description>index_by()</description>
+  <description>index_by{}</description>
 </snippet>
