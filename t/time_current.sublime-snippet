@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[Time.current]]></content>
+  <tabTrigger>Time.current</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>Time.current</description>
+</snippet>
