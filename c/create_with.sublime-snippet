@@ -1,6 +1,6 @@
 <snippet>
   <content>
-    <![CDATA[create_with.(${1:column}: ${2:value}).find_or_create_by(${3:column}: ${4:value})]]>
+    <![CDATA[create_with(${1:column}: ${2:value}).find_or_create_by(${3:column}: ${4:value})]]>
   </content>
   <tabTrigger>create_with</tabTrigger>
   <scope>source.ruby</scope>
