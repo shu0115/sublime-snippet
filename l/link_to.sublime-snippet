@@ -1,6 +1,6 @@
 <snippet>
   <content>
-    <![CDATA[link_to ${1:"text"}, ${2:_path}]]>
+    <![CDATA[link_to '${1:text}', ${2:_path}]]>
   </content>
   <tabTrigger>link_to</tabTrigger>
   <scope>source</scope>

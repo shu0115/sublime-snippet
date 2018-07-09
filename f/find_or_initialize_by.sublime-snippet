@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[find_or_initialize_by(${1:column}: ${2:value})]]>
+  </content>
+  <tabTrigger>find_or_initialize_by</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>find_or_initialize_by</description>
+</snippet>
