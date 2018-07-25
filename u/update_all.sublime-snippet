@@ -1,6 +1,6 @@
 <snippet>
   <content>
-    <![CDATA[update_all( ${1:key}: ${2:value} )]]>
+    <![CDATA[update_all(${1:key}: ${2:value})]]>
   </content>
   <tabTrigger>update_all</tabTrigger>
   <scope>source.ruby</scope>
