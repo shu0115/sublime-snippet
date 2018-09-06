@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[deep_symbolize_keys]]>
+  </content>
+  <tabTrigger>deep_symbolize_keys</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>deep_symbolize_keys</description>
+</snippet>
