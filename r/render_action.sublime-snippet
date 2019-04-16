@@ -1,6 +1,6 @@
 <snippet>
   <content>
-    <![CDATA[render action: '${1:}']]>
+    <![CDATA[render action: '${1:}' and return]]>
   </content>
   <tabTrigger>render action</tabTrigger>
   <scope>source.ruby</scope>

@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[render template: '${1:controller}/${2:action}' and return]]>
+  </content>
+  <tabTrigger>render template</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>render template</description>
+</snippet>
